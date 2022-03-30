@@ -1,0 +1,107 @@
+{
+    "Walker": {
+        "checkpoints": [
+            {
+                "steps": 999972,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-999972.nn",
+                "reward": 11.82025027363882,
+                "creation_time": 1648149264.666058
+            },
+            {
+                "steps": 1999991,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-1999991.nn",
+                "reward": 19.057635456497906,
+                "creation_time": 1648150825.413527
+            },
+            {
+                "steps": 2999996,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-2999996.nn",
+                "reward": 27.74422669276006,
+                "creation_time": 1648152404.988539
+            },
+            {
+                "steps": 3999995,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-3999995.nn",
+                "reward": 34.824066107089706,
+                "creation_time": 1648153846.1343832
+            },
+            {
+                "steps": 4999985,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-4999985.nn",
+                "reward": 51.08931502972381,
+                "creation_time": 1648155368.9961889
+            },
+            {
+                "steps": 5999986,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-5999986.nn",
+                "reward": 77.88977662222726,
+                "creation_time": 1648156932.287641
+            },
+            {
+                "steps": 6999853,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-6999853.nn",
+                "reward": 135.23537406467256,
+                "creation_time": 1648158182.730011
+            },
+            {
+                "steps": 7999755,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-7999755.nn",
+                "reward": 263.54697897079143,
+                "creation_time": 1648159434.2202182
+            },
+            {
+                "steps": 8999698,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-8999698.nn",
+                "reward": 636.1906921386719,
+                "creation_time": 1648160861.280381
+            },
+            {
+                "steps": 9999541,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-9999541.nn",
+                "reward": 1210.5733375549316,
+                "creation_time": 1648162990.405466
+            },
+            {
+                "steps": 10999188,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-10999188.nn",
+                "reward": 1241.5493713378905,
+                "creation_time": 1648164607.4740942
+            },
+            {
+                "steps": 11999063,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-11999063.nn",
+                "reward": 1725.4888509114583,
+                "creation_time": 1648166266.10178
+            },
+            {
+                "steps": 12999376,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-12999376.nn",
+                "reward": 1921.7080078125,
+                "creation_time": 1648168005.847946
+            },
+            {
+                "steps": 13999777,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-13999777.nn",
+                "reward": 1764.7150774002075,
+                "creation_time": 1648169615.646246
+            },
+            {
+                "steps": 14279591,
+                "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker/Walker-14279591.nn",
+                "reward": 519.4473876953125,
+                "creation_time": 1648170100.704295
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 14279591,
+            "file_path": "results/GoodBaseLineWithHandsAndZCoord3/Walker.nn",
+            "reward": 519.4473876953125,
+            "creation_time": 1648170100.704295
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Walker": {
+        "checkpoints": [
+            {
+                "steps": 107287,
+                "file_path": "results/TestMove/Walker/Walker-107287.nn",
+                "reward": -33.87481502049875,
+                "creation_time": 1647471147.7202759
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 107287,
+            "file_path": "results/TestMove/Walker.nn",
+            "reward": -33.87481502049875,
+            "creation_time": 1647471147.7202759
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.1"
+    }
+}

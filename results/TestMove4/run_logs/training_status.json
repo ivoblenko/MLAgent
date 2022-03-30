@@ -1,0 +1,53 @@
+{
+    "Walker": {
+        "checkpoints": [
+            {
+                "steps": 999983,
+                "file_path": "results/TestMove4/Walker/Walker-999983.nn",
+                "reward": 189.4590620242669,
+                "creation_time": 1647510394.10481
+            },
+            {
+                "steps": 1999962,
+                "file_path": "results/TestMove4/Walker/Walker-1999962.nn",
+                "reward": 291.52278270566364,
+                "creation_time": 1647511342.3123178
+            },
+            {
+                "steps": 2999983,
+                "file_path": "results/TestMove4/Walker/Walker-2999983.nn",
+                "reward": 521.5313768778761,
+                "creation_time": 1647512210.0557141
+            },
+            {
+                "steps": 3999919,
+                "file_path": "results/TestMove4/Walker/Walker-3999919.nn",
+                "reward": 969.5813333553119,
+                "creation_time": 1647513071.681095
+            },
+            {
+                "steps": 4999913,
+                "file_path": "results/TestMove4/Walker/Walker-4999913.nn",
+                "reward": 2857.4949215975676,
+                "creation_time": 1647513907.874528
+            },
+            {
+                "steps": 5816895,
+                "file_path": "results/TestMove4/Walker/Walker-5816895.nn",
+                "reward": 6411.890182495117,
+                "creation_time": 1647514678.3368351
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5816895,
+            "file_path": "results/TestMove4/Walker.nn",
+            "reward": 6411.890182495117,
+            "creation_time": 1647514678.3368351
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.1"
+    }
+}

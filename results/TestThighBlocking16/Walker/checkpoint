@@ -1,0 +1,2 @@
+model_checkpoint_path: "Walker-122599.ckpt"
+all_model_checkpoint_paths: "Walker-122599.ckpt"

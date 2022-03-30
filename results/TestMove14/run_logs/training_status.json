@@ -1,0 +1,29 @@
+{
+    "Walker": {
+        "checkpoints": [
+            {
+                "steps": 999999,
+                "file_path": "results/TestMove14/Walker/Walker-999999.nn",
+                "reward": -1.7675571208302345,
+                "creation_time": 1647545826.1785321
+            },
+            {
+                "steps": 1717132,
+                "file_path": "results/TestMove14/Walker/Walker-1717132.nn",
+                "reward": 5.935950099324214,
+                "creation_time": 1647546614.3493388
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1717132,
+            "file_path": "results/TestMove14/Walker.nn",
+            "reward": 5.935950099324214,
+            "creation_time": 1647546614.3493388
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.1"
+    }
+}

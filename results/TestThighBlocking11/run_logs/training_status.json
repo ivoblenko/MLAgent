@@ -1,0 +1,23 @@
+{
+    "Walker": {
+        "checkpoints": [
+            {
+                "steps": 314220,
+                "file_path": "results/TestThighBlocking11/Walker/Walker-314220.nn",
+                "reward": -1.467471998012983,
+                "creation_time": 1647459546.05364
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 314220,
+            "file_path": "results/TestThighBlocking11/Walker.nn",
+            "reward": -1.467471998012983,
+            "creation_time": 1647459546.05364
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.1"
+    }
+}

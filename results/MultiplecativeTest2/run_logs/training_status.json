@@ -1,0 +1,257 @@
+{
+    "Walker": {
+        "checkpoints": [
+            {
+                "steps": 1999982,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-1999982.nn",
+                "reward": -0.9999768534454249,
+                "creation_time": 1647915513.292873
+            },
+            {
+                "steps": 2999999,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-2999999.nn",
+                "reward": -0.9999715572546336,
+                "creation_time": 1647916221.845622
+            },
+            {
+                "steps": 3999968,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-3999968.nn",
+                "reward": -0.9999648544591727,
+                "creation_time": 1647916943.5119581
+            },
+            {
+                "steps": 4999997,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-4999997.nn",
+                "reward": -0.9999596784365392,
+                "creation_time": 1647917665.733001
+            },
+            {
+                "steps": 5999972,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-5999972.nn",
+                "reward": -0.9999567907495597,
+                "creation_time": 1647918390.144037
+            },
+            {
+                "steps": 6999990,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-6999990.nn",
+                "reward": -0.9999680361061385,
+                "creation_time": 1647919121.93138
+            },
+            {
+                "steps": 7999989,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-7999989.nn",
+                "reward": -0.9999777026654174,
+                "creation_time": 1647919861.156915
+            },
+            {
+                "steps": 8999991,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-8999991.nn",
+                "reward": -0.9999937058349664,
+                "creation_time": 1647920604.748323
+            },
+            {
+                "steps": 9999996,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-9999996.nn",
+                "reward": -0.9999989464465395,
+                "creation_time": 1647921394.587268
+            },
+            {
+                "steps": 10999988,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-10999988.nn",
+                "reward": -1.0000090803116535,
+                "creation_time": 1647922212.937408
+            },
+            {
+                "steps": 11999998,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-11999998.nn",
+                "reward": -1.0000159156375699,
+                "creation_time": 1647923050.608661
+            },
+            {
+                "steps": 12999993,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-12999993.nn",
+                "reward": -1.0000168361798698,
+                "creation_time": 1647923897.4105952
+            },
+            {
+                "steps": 13999996,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-13999996.nn",
+                "reward": -1.0000022007273388,
+                "creation_time": 1647924736.985806
+            },
+            {
+                "steps": 14999995,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-14999995.nn",
+                "reward": -1.0000032728368586,
+                "creation_time": 1647925589.155144
+            },
+            {
+                "steps": 15999998,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-15999998.nn",
+                "reward": -1.0000079760881007,
+                "creation_time": 1647926435.266635
+            },
+            {
+                "steps": 16999987,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-16999987.nn",
+                "reward": -1.0000142819010243,
+                "creation_time": 1647927279.7145019
+            },
+            {
+                "steps": 17999994,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-17999994.nn",
+                "reward": -1.0000146710744469,
+                "creation_time": 1647928123.781151
+            },
+            {
+                "steps": 18999995,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-18999995.nn",
+                "reward": -1.0000243200866166,
+                "creation_time": 1647928975.321413
+            },
+            {
+                "steps": 19999989,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-19999989.nn",
+                "reward": -1.0000049278474925,
+                "creation_time": 1647929786.666136
+            },
+            {
+                "steps": 20999993,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-20999993.nn",
+                "reward": -1.0000258050133697,
+                "creation_time": 1647930537.878273
+            },
+            {
+                "steps": 21999992,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-21999992.nn",
+                "reward": -1.000027337414466,
+                "creation_time": 1647931276.48291
+            },
+            {
+                "steps": 22999988,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-22999988.nn",
+                "reward": -1.0000214641826077,
+                "creation_time": 1647932013.103408
+            },
+            {
+                "steps": 23999998,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-23999998.nn",
+                "reward": -1.0000159316481905,
+                "creation_time": 1647932743.097535
+            },
+            {
+                "steps": 24999998,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-24999998.nn",
+                "reward": -1.0000192438580386,
+                "creation_time": 1647933471.15787
+            },
+            {
+                "steps": 25999989,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-25999989.nn",
+                "reward": -1.000025520444882,
+                "creation_time": 1647934198.293818
+            },
+            {
+                "steps": 26999998,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-26999998.nn",
+                "reward": -1.0000094573388154,
+                "creation_time": 1647934950.2381618
+            },
+            {
+                "steps": 27999994,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-27999994.nn",
+                "reward": -1.0000094095081145,
+                "creation_time": 1647935698.7782059
+            },
+            {
+                "steps": 28999999,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-28999999.nn",
+                "reward": -1.0000084475122926,
+                "creation_time": 1647936437.624175
+            },
+            {
+                "steps": 29999987,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-29999987.nn",
+                "reward": -1.0000097019126617,
+                "creation_time": 1647937181.475635
+            },
+            {
+                "steps": 30999997,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-30999997.nn",
+                "reward": -1.0000120538387185,
+                "creation_time": 1647937924.225801
+            },
+            {
+                "steps": 31999992,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-31999992.nn",
+                "reward": -1.0000152460067144,
+                "creation_time": 1647938671.558164
+            },
+            {
+                "steps": 32999998,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-32999998.nn",
+                "reward": -1.0000131607940335,
+                "creation_time": 1647939418.08029
+            },
+            {
+                "steps": 33999997,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-33999997.nn",
+                "reward": -1.0000255841475267,
+                "creation_time": 1647940171.6746109
+            },
+            {
+                "steps": 34999996,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-34999996.nn",
+                "reward": -1.0000295048996135,
+                "creation_time": 1647940919.062816
+            },
+            {
+                "steps": 35999988,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-35999988.nn",
+                "reward": -1.0000309205948799,
+                "creation_time": 1647941702.45386
+            },
+            {
+                "steps": 36999991,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-36999991.nn",
+                "reward": -1.000031557937578,
+                "creation_time": 1647942521.708234
+            },
+            {
+                "steps": 37999992,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-37999992.nn",
+                "reward": -1.0000298278055328,
+                "creation_time": 1647943357.7495549
+            },
+            {
+                "steps": 38999987,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-38999987.nn",
+                "reward": -1.0000294456879297,
+                "creation_time": 1647944189.012307
+            },
+            {
+                "steps": 39999993,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-39999993.nn",
+                "reward": -1.0000327835487,
+                "creation_time": 1647945014.8883898
+            },
+            {
+                "steps": 40858789,
+                "file_path": "results/MultiplecativeTest2/Walker/Walker-40858789.nn",
+                "reward": -1.0000328022767515,
+                "creation_time": 1647945740.146095
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 40858789,
+            "file_path": "results/MultiplecativeTest2/Walker.nn",
+            "reward": -1.0000328022767515,
+            "creation_time": 1647945740.146095
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.1"
+    }
+}

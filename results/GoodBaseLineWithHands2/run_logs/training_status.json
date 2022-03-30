@@ -1,0 +1,23 @@
+{
+    "Walker": {
+        "checkpoints": [
+            {
+                "steps": 5063,
+                "file_path": "results/GoodBaseLineWithHands2/Walker/Walker-5063.nn",
+                "reward": -69.93367037138714,
+                "creation_time": 1648062922.290644
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5063,
+            "file_path": "results/GoodBaseLineWithHands2/Walker.nn",
+            "reward": -69.93367037138714,
+            "creation_time": 1648062922.290644
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.1"
+    }
+}

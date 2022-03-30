@@ -1,0 +1,29 @@
+{
+    "Walker": {
+        "checkpoints": [
+            {
+                "steps": 999984,
+                "file_path": "results/TestMove3/Walker/Walker-999984.nn",
+                "reward": 12.601019492227874,
+                "creation_time": 1647475909.243883
+            },
+            {
+                "steps": 1209695,
+                "file_path": "results/TestMove3/Walker/Walker-1209695.nn",
+                "reward": 15.81670777797699,
+                "creation_time": 1647476167.6374578
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1209695,
+            "file_path": "results/TestMove3/Walker.nn",
+            "reward": 15.81670777797699,
+            "creation_time": 1647476167.6374578
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.1"
+    }
+}

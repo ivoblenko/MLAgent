@@ -1,0 +1,107 @@
+{
+    "Walker": {
+        "checkpoints": [
+            {
+                "steps": 999985,
+                "file_path": "results/LastTest6/Walker/Walker-999985.nn",
+                "reward": -3.304134278419416,
+                "creation_time": 1648503175.5417228
+            },
+            {
+                "steps": 1999990,
+                "file_path": "results/LastTest6/Walker/Walker-1999990.nn",
+                "reward": 2.9090663368845164,
+                "creation_time": 1648504039.606795
+            },
+            {
+                "steps": 2999989,
+                "file_path": "results/LastTest6/Walker/Walker-2999989.nn",
+                "reward": 10.618311809201545,
+                "creation_time": 1648504867.74772
+            },
+            {
+                "steps": 3999976,
+                "file_path": "results/LastTest6/Walker/Walker-3999976.nn",
+                "reward": 17.204173810141427,
+                "creation_time": 1648505671.3539178
+            },
+            {
+                "steps": 4999994,
+                "file_path": "results/LastTest6/Walker/Walker-4999994.nn",
+                "reward": 21.655574795519478,
+                "creation_time": 1648506465.121263
+            },
+            {
+                "steps": 5999985,
+                "file_path": "results/LastTest6/Walker/Walker-5999985.nn",
+                "reward": 19.554112700691,
+                "creation_time": 1648507265.9812732
+            },
+            {
+                "steps": 6999995,
+                "file_path": "results/LastTest6/Walker/Walker-6999995.nn",
+                "reward": 17.059235160576623,
+                "creation_time": 1648508043.4941828
+            },
+            {
+                "steps": 7999999,
+                "file_path": "results/LastTest6/Walker/Walker-7999999.nn",
+                "reward": 17.91958025726112,
+                "creation_time": 1648508824.0667
+            },
+            {
+                "steps": 8999992,
+                "file_path": "results/LastTest6/Walker/Walker-8999992.nn",
+                "reward": 14.63152115166506,
+                "creation_time": 1648509599.496755
+            },
+            {
+                "steps": 9999989,
+                "file_path": "results/LastTest6/Walker/Walker-9999989.nn",
+                "reward": 13.155456590560942,
+                "creation_time": 1648510383.492903
+            },
+            {
+                "steps": 10999995,
+                "file_path": "results/LastTest6/Walker/Walker-10999995.nn",
+                "reward": 13.946147936808911,
+                "creation_time": 1648511171.679348
+            },
+            {
+                "steps": 11999989,
+                "file_path": "results/LastTest6/Walker/Walker-11999989.nn",
+                "reward": 9.917697965324699,
+                "creation_time": 1648511964.536289
+            },
+            {
+                "steps": 12999993,
+                "file_path": "results/LastTest6/Walker/Walker-12999993.nn",
+                "reward": 9.84684336298988,
+                "creation_time": 1648512762.061449
+            },
+            {
+                "steps": 13999995,
+                "file_path": "results/LastTest6/Walker/Walker-13999995.nn",
+                "reward": 7.191893723026012,
+                "creation_time": 1648513552.495046
+            },
+            {
+                "steps": 14046269,
+                "file_path": "results/LastTest6/Walker/Walker-14046269.nn",
+                "reward": 7.540773254770403,
+                "creation_time": 1648513591.1422029
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 14046269,
+            "file_path": "results/LastTest6/Walker.nn",
+            "reward": 7.540773254770403,
+            "creation_time": 1648513591.1422029
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.7.1"
+    }
+}

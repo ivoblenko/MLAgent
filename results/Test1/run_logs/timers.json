@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1647454072",
+        "python_version": "3.8.5 (default, Sep  4 2020, 02:22:02) \n[Clang 10.0.0 ]",
+        "command_line_arguments": "/Users/i.voblenko/Desktop/temp/\u041f\u0440\u043e\u0435\u043a\u0442\u044b/ML Test/venv/bin/mlagents-learn --run-id=Test1",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.8.1",
+        "numpy_version": "1.22.3",
+        "end_time_seconds": "1647454140"
+    },
+    "total": 67.62989592299999,
+    "count": 1,
+    "self": 0.006891104999994013,
+    "children": {
+        "run_training.setup": {
+            "total": 0.05316064300000001,
+            "count": 1,
+            "self": 0.05316064300000001
+        },
+        "TrainerController.start_learning": {
+            "total": 67.569844175,
+            "count": 1,
+            "self": 0.00011795299998595965,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 67.56967699500001,
+                    "count": 1,
+                    "self": 67.56967699500001
+                },
+                "TrainerController._save_models": {
+                    "total": 4.922700000520308e-05,
+                    "count": 1,
+                    "self": 4.922700000520308e-05
+                }
+            }
+        }
+    }
+}
